@@ -1,0 +1,1 @@
+To start the program run `npm install` followed by `npm run app`
